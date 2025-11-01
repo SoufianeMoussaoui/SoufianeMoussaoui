@@ -16,7 +16,7 @@ efficiency over formality
 
 <!-- Optionally, you can add a GitHub language card -->
 <!-- Replace USERNAME with your GitHub username -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeMoussaoui&layout=compact&theme=transparent&hide_border=true)
 
 
 
